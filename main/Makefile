@@ -1,2 +1,2 @@
 all:
-<	>echo "Build successful"
+	echo "Build successful"
