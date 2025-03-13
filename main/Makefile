@@ -1,0 +1,2 @@
+all: 
+'.gitecho "Build successful"' 
