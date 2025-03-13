@@ -1,2 +1,2 @@
-all: 
-'.gitecho "Build successful"' 
+all:
+<	>echo "Build successful"
